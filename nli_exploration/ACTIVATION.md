@@ -15,4 +15,4 @@ Or in fish shell
 `set VIRTUAL_ENV "/home/cas/Documents/coding/python/Project-Alethia/nli_exploration/.env"`
 
 And to install datasets via huggingface, you'll need
-`pup install datasets`
+`pip install datasets`

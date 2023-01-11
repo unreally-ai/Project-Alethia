@@ -1,3 +1,5 @@
 nli_exploration/.env
 nli_exploration/.vector_cache
 test/data
+data/
+data.zip
