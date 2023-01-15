@@ -1,5 +1,5 @@
-nli_exploration/.env
-nli_exploration/.vector_cache
-test/data
-data/
-data.zip
+working/.env
+working/.vector_cache
+working/data
+tests/data
+tests/.vector_cache
